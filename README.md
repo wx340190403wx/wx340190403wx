@@ -6,7 +6,7 @@
 
 
 
-- 🎓 &nbsp;  I am a second-year Masters' Student in Psychology at ECNU.
+- 🎓 &nbsp;  I am a Third-year Masters' Student in Psychology at ECNU.
 
 - 🤔 &nbsp; Exploring new technologies(fMRI, EEG, Eye-tracking) and developing coding solutions.
 
